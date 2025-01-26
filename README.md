@@ -1,2 +1,2 @@
 # InterpertableML
-Interable model development for customer churn
+Interperable model development for customer churn
