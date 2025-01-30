@@ -1,2 +1,2 @@
 # InterpertableML
-Interperable model development for customer churn
+Building interpretable linear regression, logistic regression, and GAM models to predict customer churn. 
